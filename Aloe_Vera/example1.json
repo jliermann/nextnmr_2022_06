@@ -1,0 +1,55 @@
+{
+    "spectra": [
+      {
+        "data": {},
+        "source": {
+          "jcampURL": "./Aloe_Vera/120.dx"
+        },
+        "display": {
+          "name": "noesygppr1d",
+          "color": "#C10020"
+        }
+      },
+      {
+        "data": {},
+        "source": {
+          "jcampURL": "./Aloe_Vera/130.dx"
+        },
+        "display": {
+          "name": "zg30",
+          "color": "#C10020"
+        }
+      },
+      {
+        "data": {},
+        "source": {
+          "jcampURL": "./Aloe_Vera/131.dx"
+        },
+        "display": {
+          "name": "mlevdcphwt",
+          "positiveColor":"#c10020ff",
+          "negativeColor":"#00538aff"       }
+      },
+      {
+        "data": {},
+        "source": {
+          "jcampURL": "./Aloe_Vera/132.dx"
+        },
+        "display": {
+          "name": "hsqcedetgpsisp2.3",
+          "positiveColor":"#c10020ff",
+          "negativeColor":"#00538aff"       }
+      },
+      {
+        "data": {},
+        "source": {
+          "jcampURL": "./Aloe_Vera/133.dx"
+        },
+        "display": {
+          "name": "hmbcetgpl3nd",
+          "positiveColor":"#c10020ff",
+          "negativeColor":"#00538aff"       }
+      }
+    ]
+  }
+
