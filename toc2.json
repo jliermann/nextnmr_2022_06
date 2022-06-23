@@ -1,0 +1,13 @@
+[
+  {
+    "file": "./Aloe_Vera/aloe.json",
+    "title": "Aloe Vera",
+    "view": ""
+  },
+  {
+    "file": "./Aloe_Vera/osaft.json",
+    "title": "Orangensaft",
+    "view": "",
+    "selected": true
+  }
+] 

@@ -4,5 +4,10 @@
     "title": "Aloe Vera",
     "view": "",
     "selected": true
+  },
+  {
+    "file": "./Aloe_Vera/osaft.json",
+    "title": "Orangensaft",
+    "view": ""
   }
 ] 

@@ -1,0 +1,35 @@
+{
+    "spectra": [
+      {
+        "data": {},
+        "source": {
+          "jcampURL": "./Aloe_Vera/70.dx"
+        },
+        "display": {
+          "name": "noesygppr1d",
+          "color": "#C10020"
+        }
+      },
+      {
+        "data": {},
+        "source": {
+          "jcampURL": "./Aloe_Vera/72.dx"
+        },
+        "display": {
+          "name": "hsqcedetgpsisp2.3",
+          "positiveColor":"#c10020ff",
+          "negativeColor":"#00538aff"       }
+      },
+      {
+        "data": {},
+        "source": {
+          "jcampURL": "./Aloe_Vera/73.dx"
+        },
+        "display": {
+          "name": "hmbcetgpl3nd",
+          "positiveColor":"#c10020ff",
+          "negativeColor":"#00538aff"       }
+      }
+    ]
+  }
+
